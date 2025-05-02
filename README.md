@@ -8,7 +8,8 @@
 
 ## Menu page
 
-![flutter2](https://github.com/user-attachments/assets/d96cd3c5-c2ad-442d-af3a-289cd86b7831)
+![flutter2](https://github.com/user-attachments/assets/bbbad1c0-9ecf-43ea-a854-68409f4c2505)
+
 
 
 ## Counter page
