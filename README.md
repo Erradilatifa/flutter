@@ -18,7 +18,8 @@
 ## Menu page
 
 
-![ssste5](https://github.com/user-attachments/assets/f197ac52-f2b6-4044-baa0-c975a92765a8)
+![ssste5](https://github.com/user-attachments/assets/a5d26980-ef22-4888-926b-607a90f5e5e1)
+
 
 
 
