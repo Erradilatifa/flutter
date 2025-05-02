@@ -2,7 +2,8 @@
 
 ## This page is the home page of the application
 
-![flutter1](https://github.com/user-attachments/assets/6e73129b-b2c0-497e-94d0-27e80b8c7790)
+![image](https://github.com/user-attachments/assets/d9c86bdb-7a1d-4158-9eb6-9cf0063f7bcf)
+
 
 ## Menu Page
 ![flutter2](https://github.com/user-attachments/assets/b88c6906-26d7-4dcf-8c76-26208b841977)
