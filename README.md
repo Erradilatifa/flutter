@@ -1,6 +1,7 @@
 
 # myapp
-### This Flutter app is a practical project I built to learn and master Flutter development. It includes:  Home ,Counter,Product,Settings
+### This Flutter app is a practical project I built to learn and master Flutter development. It includes:
+Home ,Counter,Product,Settings
 
 # See screenshots below for the app interface!
 
