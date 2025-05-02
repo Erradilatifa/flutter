@@ -14,7 +14,7 @@ class MyCustomDrawer extends StatelessWidget {
 
           // Item Accueil
           MyDrawerItem(
-            title: "Accueil",
+            title: "Home",
             itemIcon: const Icon(Icons.home, color: Colors.teal), // Icône maison
             route: "/",
           ),
@@ -26,7 +26,7 @@ class MyCustomDrawer extends StatelessWidget {
 
           // Item Compteur
           MyDrawerItem(
-            title: "Compteur",
+            title: "Counter",
             itemIcon: const Icon(Icons.add_circle_outline, color: Colors.teal), // Icône +
             route: "/counter",
           ),
@@ -38,7 +38,7 @@ class MyCustomDrawer extends StatelessWidget {
 
           // Item Produits
           MyDrawerItem(
-            title: "Produits",
+            title: "Product",
             itemIcon: const Icon(Icons.shopping_basket, color: Colors.teal), // Icône panier
             route: "/product",
           ),
