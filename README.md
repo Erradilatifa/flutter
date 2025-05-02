@@ -7,8 +7,8 @@
 
 
 ## Menu page
+![fluuter2](https://github.com/user-attachments/assets/9e627d70-1118-41fe-a86b-23dcf2bc1e9a)
 
-![flutter2](https://github.com/user-attachments/assets/bbbad1c0-9ecf-43ea-a854-68409f4c2505)
 
 
 
