@@ -1,5 +1,14 @@
 
 # myapp
+### This Flutter app is a practical project I built to learn and master Flutter development. It includes:
+
+Home: 
+
+Counter: 
+
+Product
+
+Parameters
 
 ## This page is the home page of the application.
 
