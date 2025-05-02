@@ -50,7 +50,7 @@ class MyCustomDrawer extends StatelessWidget {
             color: Colors.teal[300],
           ),
           MyDrawerItem(
-            title: "Paramètres",
+            title: "Settings",
             itemIcon: const Icon(Icons.settings, color: Colors.grey), // Icône paramètres
             route: "/settings",
           ),
