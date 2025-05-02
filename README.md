@@ -1,7 +1,7 @@
 
 # myapp
 
-##  Home page application
+## This page is the home page of the application.
 
   ![ggggggggg](https://github.com/user-attachments/assets/794d6e45-aaa9-47cc-bb5c-8e9f699de51d)
 
