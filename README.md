@@ -1,12 +1,12 @@
 # myapp
 
 ## This page is the home page of the application
-![flutter1](https://github.com/user-attachments/assets/bdd4798b-c10b-48dc-bf2f-e0a21b57b415)
+![flutter1](https://github.com/user-attachments/assets/c77df970-65fd-4fa7-9b42-0013f14213e2)
 
 
 ## Menu Page
-![flutter4](https://github.com/user-attachments/assets/c2bf9ea6-f263-4211-b1a9-4bade902648f)
-
+![flutter4](https://github.com/user-attachments/assets/2188a6a6-ccd9-46f8-8170-5ae70cdfb977)
 
 ## Counter page
-![fluuter3](https://github.com/user-attachments/assets/357d7801-71c9-48a5-825a-6624957380fb)
+![fluuter3](https://github.com/user-attachments/assets/21ee68cf-7b15-4648-a65b-ab383beec173)
+
