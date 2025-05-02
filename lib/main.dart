@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         colorScheme:ColorScheme.fromSeed(
             seedColor:Colors.teal
         ),
-        primaryColor:Colors.deepOrange,
+        primaryColor:Colors.teal,
         textTheme:TextTheme(
           bodyLarge: TextStyle(fontSize: 22)
         ),
