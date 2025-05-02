@@ -4,7 +4,8 @@
 ## This page is the home page of the application
 
 
-![ssssssssss](https://github.com/user-attachments/assets/83ea9df9-0e2b-4240-8b5e-8b360d594815)
+![ssssssssss](https://github.com/user-attachments/assets/1282e881-96a2-4f27-ab02-76407ef225bd)
+
 
 
 
