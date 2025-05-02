@@ -1,10 +1,9 @@
 
 # myapp
 
-## This page is the home page of the application
+##  Home page application
 
-
-![jjjjjjjjjjjjjjj](https://github.com/user-attachments/assets/7c1073ce-5486-4a74-8d77-1086514081ce)
+ ![jjjjjjjjjjjjjjj](https://github.com/user-attachments/assets/7c1073ce-5486-4a74-8d77-1086514081ce)
 
 
 
