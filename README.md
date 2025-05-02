@@ -5,7 +5,7 @@
 
 # See screenshots below for the app interface!
 
-##  home page of the application.
+##  Home page of the application.
 
 
   ![ggggggggg](https://github.com/user-attachments/assets/794d6e45-aaa9-47cc-bb5c-8e9f699de51d)
@@ -18,7 +18,8 @@
 ## Menu page
 
 
-![jjjjjjjjjjj](https://github.com/user-attachments/assets/575db86e-0106-4886-97c4-cacc7305d1f8)
+![ssste5](https://github.com/user-attachments/assets/f197ac52-f2b6-4044-baa0-c975a92765a8)
+
 
 
 
