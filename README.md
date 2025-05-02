@@ -1,16 +1,11 @@
 # myapp
 
-A new Flutter project.
+## This page is the home page of the application
 
-## Getting Started
+![flutter1](https://github.com/user-attachments/assets/6e73129b-b2c0-497e-94d0-27e80b8c7790)
 
-This project is a starting point for a Flutter application.
+## Menu Page
+![flutter2](https://github.com/user-attachments/assets/b88c6906-26d7-4dcf-8c76-26208b841977)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Counter page
+![fluuter3](https://github.com/user-attachments/assets/357d7801-71c9-48a5-825a-6624957380fb)
