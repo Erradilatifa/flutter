@@ -1,9 +1,11 @@
 
 # myapp
 ### This Flutter app is a practical project I built to learn and master Flutter development. It includes:
-### Home ,Counter,Product,Parameters
+### Home ,Counter,Product,Settings
 
-## This page is the home page of the application.
+# See screenshots below for the app interface!
+
+##  home page of the application.
 
 
   ![ggggggggg](https://github.com/user-attachments/assets/794d6e45-aaa9-47cc-bb5c-8e9f699de51d)
